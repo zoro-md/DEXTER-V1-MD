@@ -1,8 +1,8 @@
 {
-  "name":"DEXTER-V1-MD",
+  "name":"ZORO-V1-MD",
   "description":"An easy and simple WhatsApp bot developed by France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/57c3083b60b2bea6ec132.jpg",
+  "logo":"https://telegra.ph/file/bf96e9e9ca78329269573.jpg",
   "repository":"https://github.com/Purnageethanajana/DEXTER-V1-MD/",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DEXTER-V1-MD",
+      "value":"ZORO-V1-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/e716c8220c20e3845f2cf.mp4",
+      "value":"https://telegra.ph/file/d26a7d4273366b4d507d7.mp4",
       "required":false
        
      },
@@ -72,16 +72,16 @@
     "OWNER_NAME":
     {
     
-    "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
+    "desc": "📌 Dont chchange (Z O R O - M D )",
     "required": false,
-    "value": "DEXTER"
+    "value": "Z O R O "
   },
     "OWNER_NUMBER":
   {
     
-    "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
+    "desc": "📌 Dont chchange (Z O R O M D )",
     "required":false,
-    "value": "94789958225"
+    "value": "919778158839"
   },
     "WARN_COUNT":
   {
